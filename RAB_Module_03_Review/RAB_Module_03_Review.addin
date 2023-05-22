@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAB_Module_03_Review - Command 1</Text>
+    <Description>Some description for RAB_Module_03_Review</Description>
+    <Assembly>RAB_Module_03_Review.dll</Assembly>
+    <FullClassName>RAB_Module_03_Review.Command1</FullClassName>
+    <ClientId>768bc7b6-62d1-478d-9a59-530c59b8417f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_Module_03_Review - Command 2</Text>
+    <Description>Some description for RAB_Module_03_Review</Description>
+    <Assembly>RAB_Module_03_Review.dll</Assembly>
+    <FullClassName>RAB_Module_03_Review.Command2</FullClassName>
+    <ClientId>e9434b08-8fa4-4769-855c-a8adc046022d</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAB_Module_03_Review</Name>
+    <Assembly>RAB_Module_03_Review.dll</Assembly>
+    <FullClassName>RAB_Module_03_Review.App</FullClassName>
+    <ClientId>8f89639a-5937-425a-bfa9-456993d28c15</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
